@@ -1,0 +1,21 @@
+{
+  "name": "express-postgresql",
+  "version": "1.0.0",
+  "description": "This is a Node-Express and Postgresql App",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/SanjoyGorai/node-express-postgresql.git"
+  },
+  "author": "Sanjoy Gorai",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^3.0.3",
+    "pg": "^8.11.3"
+  }
+}
